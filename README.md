@@ -1,5 +1,9 @@
 In this project, let's build **Nxt Watch** by applying the concepts we have learned till now.
 
+**To Login:** <br/>
+🔵 Username: rahul
+🔴 Password: rahul@2021
+
 ### Refer to the videos below:
 
 **Success View** <br/>
