@@ -1,6 +1,6 @@
 # NxtWatch
 
-A polished, user-friendly video browsing experience built with JavaScript. NxtWatch is a modern video portal that demonstrates a YouTube-like interface with browsing, searching, and personalized features. This README provides a clear introduction, setup instructions, and a feature summary so contributors and users can get started quickly.
+User-friendly video browsing experience built with JavaScript. NxtWatch is a modern video portal that demonstrates a YouTube-like interface with browsing, searching, and personalized features. This README provides a clear introduction, setup instructions, and a feature summary so contributors and users can get started quickly.
 
 Live demo: https://nxtwatchl.ccbp.tech/
 
